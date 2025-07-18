@@ -41,5 +41,3 @@ This service uses Redis as an in-memory data store to efficiently handle cart op
     Use Postman or curl to interact with the API endpoints.
 
 ---
-
-Feel free to customize the setup steps and dependencies according to your implementation details.
